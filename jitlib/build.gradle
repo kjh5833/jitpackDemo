@@ -37,8 +37,8 @@ dependencies {
 
 
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.jitjit' // {groupname} 입력
-version = '0.0.1'
+group='com.github.kjh5833' // {groupname} 입력
+version = '0.0.2'
 
 repositories {
     mavenCentral()
